@@ -1,4 +1,3 @@
 # Kokoa-Clone 2021
 
-HTML & CSS 도전!
-commit1
+HTML & CSS 재밌다!
